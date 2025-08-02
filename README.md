@@ -1,6 +1,6 @@
 ## Asthma Prediction using Data Cleaning and Preprocessing
 
-This project aims to predict asthma risk based on patient attributes using machine learning. The focus is on data cleaning, preprocessing, feature selection (via correlation), and model training using a RandomForest classifier.
+This project aims to predict asthma risk based on patient attributes using machine learning. The focus is on data cleaning, preprocessing, feature selection (via correlation), and model training using a Logistic Regression.
 
 ## 🚀 Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
